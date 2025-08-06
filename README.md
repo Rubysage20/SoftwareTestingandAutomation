@@ -1,4 +1,4 @@
-# SoftwareTestingandAutomation
+# Software Testing and Automation
 
 ## How can I ensure that my code, program, or software is functional and secure?
 To ensure that my code, program, or software is both functional and secure, I use a Scrum-Agile approach allowing me to prioritize through testing and code review thorough the development process.
